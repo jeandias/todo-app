@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default props => (
   <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
     <Link className="navbar-brand" to="/">
-      <i className="fa fa-calendar-check-o"></i> Todo App
+      <i className="fa fa-calendar-check-o"></i> TODO App
     </Link>
     <div id="navbarNav" className="collapse navbar-collapse">
       <ul className="navbar-nav">
